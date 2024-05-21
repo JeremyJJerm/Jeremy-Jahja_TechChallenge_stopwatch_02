@@ -7,7 +7,7 @@
 .container{
     width: 400px;
     height: 250px;
-    background-color: beige;
+    background-color: rgb(248, 248, 222);
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
@@ -15,6 +15,7 @@
     border-radius: 18px;
     justify-content: center; 
     align-items: center; 
+    box-shadow: 2px 2px lightskyblue;
 }
 .display{
     margin-top: 65px;
@@ -48,6 +49,7 @@
     cursor:pointer;
     margin-top: 10px;
     font-size: 20px;
+    box-shadow: 1px 1px black;
 }
 
 
